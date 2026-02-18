@@ -20,3 +20,18 @@ So adding integers is really about:
 	•	Combining amounts
 	•	Canceling opposites
 	•	Moving left or right on the number line
+
+	Example 2 :
+
+6 + (-9)
+
+Start at 6 on the number line.
+Adding −9 means move 9 units to the left.
+
+When you move 9 steps left from 6, you pass 0 and land on −3.
+
+So,
+
+6 + (-9) = -3
+
+This works because the 6 positive units cancel out 6 of the 9 negative units, leaving 3 negative units left.
